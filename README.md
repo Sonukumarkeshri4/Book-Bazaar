@@ -16,16 +16,16 @@ Contributions are always welcome!
   ## Wireframe
 
 <p align="center">
-  <img src='Screenshot (272).jpg'/>
+  <img src='Screenshot (272).png'/>
 </p>
 <p align="center">
-  <img src='Screenshot (273).jpg'/>
+  <img src='Screenshot (273).png'/>
 </p>
 <p align="center">
-  <img src='Screenshot (274).jpg'/>
+  <img src='Screenshot (274).png'/>
 </p>
 <p align="center">
-  <img src='Screenshot (277).jpg'/>
+  <img src='Screenshot (277).png'/>
 </p>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
