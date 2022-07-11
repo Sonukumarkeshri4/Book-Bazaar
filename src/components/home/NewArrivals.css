@@ -1,0 +1,109 @@
+.newHead{
+    font-size: 4rem;
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+    margin: 20px;
+    text-align: center;
+    
+text-shadow: 4px 3px 0px #7A7A7A;
+}
+.container {
+    padding: 40px;
+    
+  }
+  
+  .slick-slide img {
+    margin: auto;
+  }
+  
+  .newItems{
+    border: 3px;
+   padding: 2px;
+    height: 300px;
+    width: 200px;
+    border-width:8px;  
+    border-color: rgb(164, 92, 4);
+    border-style:solid double double solid;
+    border-spacing: 0px;
+  }
+  .newItems:hover{
+    border-color: yellow;
+  }
+.newText{
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+    bottom: 140px;
+    left: 50px;
+}
+.newText :hover{
+    font-size: 25px;
+    color: rgb(252, 239, 3);
+}
+
+
+.newp{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
+
+  .slick-dots li.slick-active button:before {
+    color:White !important;
+}
+.slick-dots button:before {
+    color:White !important;
+}
+
+.contain2{
+
+  width: 500px;
+  height: 800px;
+
+}
+
+.newItemsRound{
+  border-radius: 50%;
+  padding: 4px;
+   height: 60px;
+   width: 60px;
+   border-width:3px;  
+   border-color: rgb(36, 255, 2);
+   border-style:solid;
+   border-spacing: 0px;
+   position: relative;
+   left: 30px;
+}
+.tdAuthor{
+  font-size: 2rem;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+   margin-left: 50px;
+   position: relative;
+   bottom: 30px;
+   text-shadow: 3px 3px 5px black;
+  }
+
+  .description{
+    max-width: 800px;
+    position: absolute;
+    left: 44%;
+    top: 650px;
+   
+  }
+  .description h1{
+    font-size: 4rem;
+    font-family:sans-serif;
+    color: white;
+    margin: 20px;
+    text-align: center;
+    text-shadow: 4px 3px 0px #7A7A7A;
+  }
+
+  .description p{
+    font-size: 20px;
+    
+    font-family:sans-serif;
+    color: white;
+    margin: 20px;
+    text-align: justify;
+  }
