@@ -1,0 +1,57 @@
+.footer{
+    background-color: rgb(115, 69, 0);
+    text-align: center;
+    position: fixed;
+    display:flexbox;
+    width: 100%;
+    bottom: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footerHead{
+    margin: 1px;
+    color: rgb(175, 175, 174);
+}
+
+@keyframes spinner {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+  .loading-spinner {
+    width: 50px;
+    height: 50px;
+    border: 10px solid #f3f3f3; /* Light grey */
+    border-top: 10px solid #383636; /* Blue */
+    border-radius: 50%;
+    animation: spinner 1.5s linear infinite;
+  }
+  
+  .spinner-container {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    height: 350px;
+  }
+
+ body{
+  background-image: url("../images/anime-original-book-chair-library-hd-wallpaper-thumb.jpg");
+  
+  }
+
+  .home{
+    text-align: center;
+    padding: 5% 15%;
+    color: #f3f3f3;
+  }
+.homehead{
+  
+}
+
+  
