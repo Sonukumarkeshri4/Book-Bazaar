@@ -1,5 +1,5 @@
-# BOOK-BAAZAR
-Full stack web application using MERN stack
+# BOOK-BAZAAR
+Full stack web application using MERN stack for CRUD applications on books.
 
 
   
