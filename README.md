@@ -1,4 +1,32 @@
-# Getting Started with Create React App
+# BOOK-BAAZAR
+Full stack web application using MERN stack
+
+
+  
+## Contributing
+
+Contributions are always welcome!
+
+
+  
+## Badges
+
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+
+  ## Wireframe
+
+<p align="center">
+  <img src='Screenshot (272).jpg'/>
+</p>
+<p align="center">
+  <img src='Screenshot (273).jpg'/>
+</p>
+<p align="center">
+  <img src='Screenshot (274).jpg'/>
+</p>
+<p align="center">
+  <img src='Screenshot (277).jpg'/>
+</p>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
